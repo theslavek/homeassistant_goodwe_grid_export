@@ -1,0 +1,12 @@
+set_grid_export:
+  description: Set the grid export on the GoodWe inverter.
+  fields:
+    ip:
+      description: The IP address of the inverter.
+      example: "192.168.1.10"
+    port:
+      description: The port of the inverter.
+      example: 8899
+    grid_export:
+      description: The grid export settings (off=0, on=1).
+      example: 0

@@ -1,0 +1,9 @@
+{
+  "domain": "goodwe_grid_export",
+  "name": "GoodWe Grid Export",
+  "version": "1.0.0",
+  "documentation": "https://github.com/theslavek/homeassistant_goodwe_grid_export",
+  "dependencies": [],
+  "codeowners": ["@theslavek"],
+  "requirements": ["goodwe", "asyncio"]
+}
